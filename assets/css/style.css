@@ -236,6 +236,10 @@ h3{
     height: 200%;
     width: 80%;
 }
+.video h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
 .chef{
     width: 80%;
     margin: auto;

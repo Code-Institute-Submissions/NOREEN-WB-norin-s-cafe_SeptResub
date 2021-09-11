@@ -11,6 +11,9 @@
     background-size: cover;
     position: relative;
 }
+.header h1{
+    color: transparent;
+}
 .header img{
     background-position: center;
     background-size: cover;
